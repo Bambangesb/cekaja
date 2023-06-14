@@ -1,0 +1,210 @@
+.typographyMaterialThemeDisplayLarge 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontsize10);
+  line-height: var(--measureLineHeightLineheights0);
+  letter-spacing:  
+  0em;
+  text-indent: var(--measureDimensionParagraphindent0);
+  
+}    
+
+.typographyMaterialThemeDisplayMedium 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontsize9);
+  line-height: var(--measureLineHeightLineheights1);
+  letter-spacing:  
+  0em;
+  text-indent: var(--measureDimensionParagraphindent0);
+  
+}    
+
+.typographyMaterialThemeDisplaySmall 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontsize8);
+  line-height: var(--measureLineHeightLineheights2);
+  letter-spacing:  
+  0em;
+  text-indent: var(--measureDimensionParagraphindent0);
+  
+}    
+
+.typographyMaterialThemeHeadlineLarge 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontsize7);
+  line-height: var(--measureLineHeightLineheights3);
+  letter-spacing:  
+  0em;
+  text-indent: var(--measureDimensionParagraphindent0);
+  
+}    
+
+.typographyMaterialThemeHeadlineMedium 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontsize6);
+  line-height: var(--measureLineHeightLineheights4);
+  letter-spacing:  
+  0em;
+  text-indent: var(--measureDimensionParagraphindent0);
+  
+}    
+
+.typographyMaterialThemeHeadlineSmall 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontsize5);
+  line-height: var(--measureLineHeightLineheights5);
+  letter-spacing:  
+  0em;
+  text-indent: var(--measureDimensionParagraphindent0);
+  
+}    
+
+.typographyMaterialThemeTitleLarge 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontsize4);
+  line-height: var(--measureLineHeightLineheights6);
+  letter-spacing:  
+  0em;
+  text-indent: var(--measureDimensionParagraphindent0);
+  
+}    
+
+.typographyMaterialThemeTitleMedium 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontsize3);
+  line-height: var(--measureLineHeightLineheights7);
+  letter-spacing:  
+  0em;
+  text-indent: var(--measureDimensionParagraphindent0);
+  
+}    
+
+.typographyMaterialThemeTitleSmall 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontsize2);
+  line-height: var(--measureLineHeightLineheights8);
+  letter-spacing:  
+  0em;
+  text-indent: var(--measureDimensionParagraphindent0);
+  
+}    
+
+.typographyMaterialThemeBodyLarge 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontsize3);
+  line-height: var(--measureLineHeightLineheights7);
+  letter-spacing:  
+  0em;
+  text-indent: var(--measureDimensionParagraphindent0);
+  
+}    
+
+.typographyMaterialThemeBodyMedium 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontsize2);
+  line-height: var(--measureLineHeightLineheights8);
+  letter-spacing:  
+  0em;
+  text-indent: var(--measureDimensionParagraphindent0);
+  
+}    
+
+.typographyMaterialThemeBodySmall 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontsize1);
+  line-height: var(--measureLineHeightLineheights9);
+  letter-spacing:  
+  0em;
+  text-indent: var(--measureDimensionParagraphindent0);
+  
+}    
+
+.typographyMaterialThemeLabelLarge 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontsize2);
+  line-height: var(--measureLineHeightLineheights8);
+  letter-spacing:  
+  0em;
+  text-indent: var(--measureDimensionParagraphindent0);
+  
+}    
+
+.typographyMaterialThemeLabelMedium 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontsize1);
+  line-height: var(--measureLineHeightLineheights9);
+  letter-spacing:  
+  0em;
+  text-indent: var(--measureDimensionParagraphindent0);
+  
+}    
+
+.typographyMaterialThemeLabelSmall 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontsize0);
+  line-height: var(--measureLineHeightLineheights9);
+  letter-spacing:  
+  0em;
+  text-indent: var(--measureDimensionParagraphindent0);
+  
+}    
+
